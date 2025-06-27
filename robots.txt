@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devopstech92.github.io/BUDS-Store/sitemap.xml
