@@ -1,2 +1,1 @@
-# onepagesite
-Landing page for my project sales
+#https://devopstech92.github.io/BUDS-Store/
